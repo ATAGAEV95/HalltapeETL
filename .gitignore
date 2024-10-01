@@ -1,6 +1,7 @@
 logs/
 plugins/
 data_lake/
+scripts/
 
 synthetic_data/.ipynb_checkpoints
 
