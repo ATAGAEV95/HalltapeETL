@@ -2,7 +2,8 @@ logs/
 plugins/
 data_lake/
 scripts/
-
+clickhouse/
+dags/__pycache__/
 synthetic_data/.ipynb_checkpoints
 
 jupyter_notebook/*
